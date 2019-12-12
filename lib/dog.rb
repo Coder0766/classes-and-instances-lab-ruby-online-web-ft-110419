@@ -1,1 +1,3 @@
-@dog.class
+class Dog
+  @dog.class
+end
