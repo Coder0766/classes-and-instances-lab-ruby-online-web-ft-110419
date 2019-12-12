@@ -1,1 +1,1 @@
-@dog.class
+dog.class
